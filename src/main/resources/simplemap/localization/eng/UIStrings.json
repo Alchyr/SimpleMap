@@ -1,0 +1,9 @@
+{
+  "${modID}:OptionsMenu": {
+    "TEXT": [
+      "Shrink Map",
+      "Disable Random Offset",
+      "Straight Line Paths"
+    ]
+  }
+}
